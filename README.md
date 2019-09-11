@@ -28,7 +28,7 @@ Actually Clevercarino
 This project is divided into two parts:
 
 * clevercarcpp: C/C++ library with the interfaces and implementations for an abstract robot. The implementations are decoupled so they need injected functions as dependencies to make the final hardware run.
-* clevercarino: Arduino Main entry point and header files implementing the functions that clevercarapp need to make Clevercarino run.
+* clevercarino: Arduino Main entry point and header files implementing the functions that clevercarcpp need to make Clevercarino run.
 
 ## Requirements ##
 
