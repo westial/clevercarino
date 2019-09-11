@@ -45,7 +45,6 @@ At this point the robot car is provided with all sensors, but in the Lesson 5 th
 In the Lesson 5 there is a table for tracking sensor modules about wich pins connect to the ESP8266 expansion board. You have to ignore that table and connect the pins as in the table below:
 
 | Pins of tracking  | Pins of   ESP8266 |
-| sensor modules    | expansion board   |
 |---                |---                |
 | VCC               | 5V                |
 | GND               | GND               |
