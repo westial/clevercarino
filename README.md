@@ -74,5 +74,5 @@ Thanks to these free tools.
 
 1. Download this repository contents by git.
 2. Install the Arduino library "./clevercarino/clevercarapp" by following the [Arduino guidelines](https://www.arduino.cc/en/guide/libraries).
-3. Open the Arduino main file "./clevercarino/main/clevercarino.ino" with Arduino IDE, verify and upload it into your OSOYOO Robot Car.
+3. Open the Arduino main file "./clevercarino/clevercarino/main.ino" with Arduino IDE, verify and upload it into your OSOYOO Robot Car.
 
