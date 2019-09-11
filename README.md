@@ -76,3 +76,6 @@ Thanks to these free tools.
 2. Install the Arduino library "./clevercarino/clevercarapp" by following the [Arduino guidelines](https://www.arduino.cc/en/guide/libraries).
 3. Open the Arduino main file "./clevercarino/clevercarino/main.ino" with Arduino IDE, verify and upload it into your OSOYOO Robot Car.
 
+## Your next steps ##
+
+When Clevercarino finds an obstacle or a hole it executes the orders from the class clevercar/InoBackLeftReviser. You may develop a new Reviser implementation and give Clevercarino a new behavior in that use case.
