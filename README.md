@@ -27,7 +27,7 @@ Actually Clevercarino
 
 This project is divided into two parts:
 
-* clevercarapp: C/C++ library with the interfaces and implementations for an abstract robot. The implementations are decoupled so they need injected functions as dependencies to make the final hardware run.
+* clevercarcpp: C/C++ library with the interfaces and implementations for an abstract robot. The implementations are decoupled so they need injected functions as dependencies to make the final hardware run.
 * clevercarino: Arduino Main entry point and header files implementing the functions that clevercarapp need to make Clevercarino run.
 
 ## Requirements ##
@@ -73,7 +73,7 @@ Thanks to these free tools.
 ## Install ##
 
 1. Download this repository contents by git.
-2. Install the Arduino library "./clevercarino/clevercarapp" by following the [Arduino guidelines](https://www.arduino.cc/en/guide/libraries).
+2. Install the Arduino library "./clevercarino/clevercarcpp" by following the [Arduino guidelines](https://www.arduino.cc/en/guide/libraries).
 3. Open the Arduino main file "./clevercarino/clevercarino/main.ino" with Arduino IDE, verify and upload it into your OSOYOO Robot Car.
 
 ## Your next steps ##
