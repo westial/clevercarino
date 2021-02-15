@@ -1,5 +1,7 @@
 # Clevercarino #
 
+![Clevercarino](./IMG_20190624_224418.jpg)
+
 This repository contains the source code for my extended firmware for [OSOYOO Robot Car Starter Kit](http://osoyoo.com/2017/08/06/osoyoo-robot-car-diy-introduction/).
 
 OSOYOO Robot Car Starter Kit is an Arduino based DIY robot with some very useful components, and this source code makes use of the following ones:
